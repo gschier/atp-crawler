@@ -6,9 +6,9 @@ Simple web crawler to fetch all show titles of ATP podcasts (atp.fm)
 
 ## What does it use?
 
-- [Request](https://github.com/mikeal/request)
-- [Domino](https://github.com/fgnass/domino)
-- [Zepto](https://github.com/fgnass/zepto-node)
+- [request](https://github.com/mikeal/request) (HTTP client)
+- [domino](https://github.com/fgnass/domino) (server-side DOM)
+- [zepto-node](https://github.com/fgnass/zepto-node) (JQuery-like library)
 
 
 ## How does it work?
