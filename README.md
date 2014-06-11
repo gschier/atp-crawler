@@ -4,10 +4,14 @@ ATP.fm Web Crawler
 Simple web crawler to fetch all show titles of ATP podcasts (atp.fm)
 
 
-## How Does it Work?
+## What does it use?
 
-- uses [Request](https://github.com/mikeal/request) + [Domino](https://github.com/fgnass/domino) to download HTML and build DOM 
-- uses [Zepto](https://github.com/fgnass/zepto-node) to select HTML elements and attributes
+- [Request](https://github.com/mikeal/request)
+- [Domino](https://github.com/fgnass/domino)
+- [Zepto](https://github.com/fgnass/zepto-node)
+
+
+## How does it work?
 
 1. fetch base URL of atp.fm
 2. download HTML
