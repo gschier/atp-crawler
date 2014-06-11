@@ -3,7 +3,7 @@ ATP.fm Web Crawler
 
 Simple web crawler to fetch all show titles of ATP podcasts (atp.fm)
 
-50 lines of code on top of 164410 lines of dependencies (for Casey)
+50 lines of code on top of ~165,000 lines of dependencies (for Casey)
 
 
 ## What does it use?
