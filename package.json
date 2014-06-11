@@ -1,0 +1,17 @@
+{
+  "name": "atp-crawler",
+  "version": "1.0.0",
+  "description": "Simple web crawler to fetch all show titles of ATP podcasts. http://atp.fm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "author": "Gregory Schier",
+  "license": "ISC",
+  "dependencies": {
+    "domino": "^1.0.17",
+    "requests": "0.0.1",
+    "request": "^2.36.0",
+    "zepto-node": "^1.0.0"
+  }
+}
